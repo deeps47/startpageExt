@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   aria-label="Gmail"
+   role="img"
+   viewBox="0 0 360 269.57727"
+   width="562.5"
+   height="421.21448"
+   fill="#00000000"
+   stroke="#00000000"
+   version="1.1"
+   id="svg1146"
+   sodipodi:docname="Gmail.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1150" />
+  <sodipodi:namedview
+     id="namedview1148"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.005"
+     inkscape:cx="245.27363"
+     inkscape:cy="210.44776"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="SVGRepo_iconCarrier" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     transform="translate(-76,-121.42273)" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     transform="translate(-76,-121.42273)" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="translate(-76,-121.42273)">
+    <rect
+       width="512"
+       height="512"
+       rx="15.000001%"
+       fill="#ffffff00"
+       id="rect1133"
+       x="0"
+       y="0" />
+    <path
+       d="M 158,391 V 249 L 76,186 v 175 q 0,30 30,30"
+       fill="#4285f4"
+       id="path1135" />
+    <path
+       d="m 154,248 102,77 102,-77 V 150 L 256,227 154,150"
+       fill="#ea4335"
+       id="path1137" />
+    <path
+       d="M 354,391 V 249 l 82,-63 v 175 q 0,30 -30,30"
+       fill="#34a853"
+       id="path1139" />
+    <path
+       d="m 76,188 82,63 v -98 l -30,-23 c -27,-21 -52,0 -52,26"
+       fill="#c5221f"
+       id="path1141" />
+    <path
+       d="m 436,188 -82,63 v -98 l 30,-23 c 27,-21 52,0 52,26"
+       fill="#fbbc04"
+       id="path1143" />
+  </g>
+</svg>

@@ -1,5 +1,9 @@
 'use strict';
 
+new PureFullPage({
+	isShowNav: false,
+});
+
 // render a single bookmark node
 function render(node, target) {
 	var li = document.createElement('li');
